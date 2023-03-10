@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="estil.css" type="text/css"?>
+<professorat>
+    <nom>Javier</nom>
+    <cognom>Amaya Boira</cognom>
+    <departament>Dept. Informàtica</departament>
+    <carrecs>
+        <carrec>Tutor</carrec>
+        <carrec>Docent</carrec>
+        <carrec>Trecent</carrec>
+    </carrecs>
+</professorat>
