@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Aleix de Diego García
+    10/03/2023
+    M04 UF2 A2 XML
+    Ús de CSS
+-->
 <?xml-stylesheet href="estil.css" type="text/css"?>
 <professorat>
     <nom>Javier</nom>
